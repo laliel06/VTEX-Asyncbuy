@@ -47,4 +47,4 @@ Chame o plugin em qualquer página `html` ou no código `javascript` principal d
 
 
 
- [Minicart] https://github.com/vtex/front.portal-plugins
+ [Minicart]: https://github.com/vtex/front.portal-plugins
