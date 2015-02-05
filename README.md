@@ -39,7 +39,7 @@ Chame o plugin em qualquer página `html` ou no código `javascript` principal d
 		</div>
 	</div>
 
-2.Verificar se existe o Plugin de [Minicart] no controle de Carrinho do site
+2.Verificar se existe o Plugin de [Minicart][] no controle de Carrinho do site
 
 3.Adicionar no `Configurações > SistemaSEO` no admin do site, o seguinte trecho de código: 
 
@@ -47,4 +47,4 @@ Chame o plugin em qualquer página `html` ou no código `javascript` principal d
 
 
 
-[Minicart] https://github.com/vtex/front.portal-plugins
+	[Minicart] https://github.com/vtex/front.portal-plugins
