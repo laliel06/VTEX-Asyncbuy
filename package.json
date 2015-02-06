@@ -1,8 +1,8 @@
 {
   "name": "AsyncBuy",
   "description": "Asynchronous buy for VTEX",
-  "autor": "Henrique Sosa",
-  "version": "0.0.2",
+  "author": "Henrique Sosa",
+  "version": "0.1.0",
   "private": true,
   "devDependencies": {
     "grunt": "^0.4.5",
