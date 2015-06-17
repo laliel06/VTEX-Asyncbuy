@@ -37,8 +37,8 @@
 
             e.preventDefault();
 
-            var idProd = $(this).parent().parent().find(".buy-button-asynchronous-defaultsku-id").val(),
-                qtFinal = $(this).parent().parent().parent().parent().parent().parent().find('.bx-quantity .qtd').val();
+            var idProd = $(this).parents("li").find(".buy-button-asynchronous-defaultsku-id").val(),
+                qtFinal = $(this).parents("li").find('.bx-quantity .qtd').val();
 
             vtexjs.catalog.getProductWithVariations(idProd).done(function (product) {
 
